@@ -1,0 +1,10 @@
+Income_Region_Group,Model Type,FS Method,CV Avg MAE,run_key
+High income - Europe & Central Asia,TCN,DomainBased,119.71428571428572,TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5
+High income - Middle East & North Africa,TCN,RandomForest,320.42857142857144,TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4
+Low income - Sub-Saharan Africa,TCN,DomainBased,42.142857142857146,TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5
+Lower middle income - Europe & Central Asia,TCN,DomainBased,134.42857142857142,TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5
+Lower middle income - Middle East & North Africa,TCN,Baseline,162.85714285714286,TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3
+Lower middle income - Sub-Saharan Africa,TCN,Baseline,105.71428571428572,TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3
+Upper middle income - Europe & Central Asia,TCN,Baseline,602.8571428571429,TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3
+Upper middle income - Middle East & North Africa,TCN,RandomForest,137.14285714285714,TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4
+Upper middle income - Sub-Saharan Africa,TCN,Baseline,192.7142857142857,TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3

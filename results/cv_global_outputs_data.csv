@@ -1,0 +1,9 @@
+Model Type,FS Method,run_key,CV Avg MAE,CV Avg RMSE,CV Avg MAPE
+GRU,Baseline,GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,999.1746031746032,999.1746031746032,2.4242612435758053
+GRU,DomainBased,GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,1395.063492063492,1395.063492063492,3.3883215194743603
+GRU,EnsembleSimpleMethods,GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,2093.6190476190477,2093.6190476190477,6.381331414273845
+GRU,RandomForest,GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,2485.1111111111113,2485.1111111111113,7.025109134336661
+TCN,Baseline,TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,353.2857142857143,353.2857142857143,1.2569612730128914
+TCN,DomainBased,TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,374.6984126984127,374.6984126984127,1.0321856821592916
+TCN,EnsembleSimpleMethods,TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,802.6666666666666,802.6666666666666,1.9899507088454575
+TCN,RandomForest,TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,387.55555555555554,387.55555555555554,1.2866096859664296

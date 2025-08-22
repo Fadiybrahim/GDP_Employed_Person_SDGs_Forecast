@@ -1,0 +1,505 @@
+Run Key,Group Name,Year,Category,Fold,Actual Value,Predicted Value
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,48998
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,48283
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,49905
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49533
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,47905
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,47918
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,49893
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,43089
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,42756
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,41928
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,44671
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,46816
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,48664
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,51002
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2014,validation_fold,1,63018,63002
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2015,validation_fold,2,64028,64094
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2016,validation_fold,3,65126,65627
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2017,validation_fold,4,66574,67276
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2018,validation_fold,5,68302,68245
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2019,validation_fold,6,70143,66776
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Europe & Central Asia,2020,validation_fold,7,67762,68417
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,4061
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,4259
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,4107
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4012
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4488
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4575
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4404
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,11111
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,11477
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11270
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11707
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,12388
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,12402
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12389
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,36670
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,37743
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,38306
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,39536
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,40052
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,41888
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,41880
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2014,validation_fold,1,84348,84539
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2015,validation_fold,2,86668,86422
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2016,validation_fold,3,86860,87729
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2017,validation_fold,4,89970,89038
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2018,validation_fold,5,90050,90042
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2019,validation_fold,6,90810,92020
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,High income - Middle East & North Africa,2020,validation_fold,7,85589,85378
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11647
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,12044
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,12675
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,13042
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,13311
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,14641
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,11772
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,46703
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,46817
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,47488
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,48211
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,48908
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,49652
+TCN_Baseline_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-3,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,46972
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,49110
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,48409
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,49901
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49499
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,48706
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,47632
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,50294
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,41797
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,42434
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,46229
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,44814
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,45789
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,48632
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,50473
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2014,validation_fold,1,63018,63283
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2015,validation_fold,2,64028,63164
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2016,validation_fold,3,65126,65808
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2017,validation_fold,4,66574,66848
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2018,validation_fold,5,68302,66478
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2019,validation_fold,6,70143,69868
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Europe & Central Asia,2020,validation_fold,7,67762,67864
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,4046
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,4122
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,4196
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4260
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4428
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4463
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4419
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,11112
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,11153
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11373
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11700
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,11674
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,12531
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12357
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,36687
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,37666
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,39266
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,39662
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,41047
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,41483
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,42002
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2014,validation_fold,1,84348,85133
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2015,validation_fold,2,86668,86525
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2016,validation_fold,3,86860,87306
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2017,validation_fold,4,89970,89627
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2018,validation_fold,5,90050,89866
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2019,validation_fold,6,90810,90920
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,High income - Middle East & North Africa,2020,validation_fold,7,85589,85357
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11847
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,12047
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,12294
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,13203
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,17347
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,14486
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,14697
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,46855
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,47014
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,47869
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,48602
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,49302
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,50136
+TCN_RandomForest_batch_size-2_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.1_tcn_kernel_size-4,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,50813
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,46650
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,49519
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,49641
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49624
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,48569
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,47690
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,50693
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,42117
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,42572
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,38841
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,44567
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,46336
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,47932
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,50252
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2014,validation_fold,1,63018,62945
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2015,validation_fold,2,64028,68018
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2016,validation_fold,3,65126,65130
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2017,validation_fold,4,66574,66248
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2018,validation_fold,5,68302,68990
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2019,validation_fold,6,70143,69151
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Europe & Central Asia,2020,validation_fold,7,67762,69174
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,4099
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,4186
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,4384
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4520
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4565
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4519
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4410
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,10790
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,11158
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11508
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11788
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,12301
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,12406
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12631
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,36668
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,38304
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,38269
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,37481
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,37842
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,41705
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,41997
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2014,validation_fold,1,84348,86567
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2015,validation_fold,2,86668,86073
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2016,validation_fold,3,86860,90914
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2017,validation_fold,4,89970,90773
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2018,validation_fold,5,90050,98437
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2019,validation_fold,6,90810,91391
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,High income - Middle East & North Africa,2020,validation_fold,7,85589,86509
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11491
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,12045
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,12286
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,11784
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,13535
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,13406
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,15092
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,46922
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,46798
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,48263
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,48290
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,49175
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,45791
+TCN_EnsembleSimpleMethods_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.0_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,47319
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,48943
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,48379
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,50854
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49698
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,48103
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,46891
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,49794
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,41797
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,42348
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,37922
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,46381
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,46356
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,44646
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,49529
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2014,validation_fold,1,63018,62910
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2015,validation_fold,2,64028,64056
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2016,validation_fold,3,65126,65130
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2017,validation_fold,4,66574,66558
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2018,validation_fold,5,68302,68521
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2019,validation_fold,6,70143,70575
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Europe & Central Asia,2020,validation_fold,7,67762,67793
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,4046
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,4159
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,4290
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4220
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4490
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4542
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4340
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,11080
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,11200
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11422
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11767
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,12301
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,12952
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12710
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,36759
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,37479
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,38527
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,39462
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,41884
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,41989
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,41819
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2014,validation_fold,1,84348,83764
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2015,validation_fold,2,86668,86814
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2016,validation_fold,3,86860,87590
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2017,validation_fold,4,89970,90272
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2018,validation_fold,5,90050,90674
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2019,validation_fold,6,90810,91014
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,High income - Middle East & North Africa,2020,validation_fold,7,85589,84782
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11829
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,11862
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,12364
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,13328
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,14359
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,14694
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,14658
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,46719
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,46672
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,48131
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,48530
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,48506
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,49552
+TCN_DomainBased_batch_size-1_hidden_dim-20_learning_rate-0.001_tcn_dropout_rate-0.2_tcn_kernel_size-5,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,47017
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,48049
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,48388
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,49894
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49438
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,48440
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,48007
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,49373
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,36614
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,40114
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,42597
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,39546
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,41095
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,48120
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,49060
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2014,validation_fold,1,63018,63044
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2015,validation_fold,2,64028,62324
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2016,validation_fold,3,65126,65199
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2017,validation_fold,4,66574,64505
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2018,validation_fold,5,68302,65935
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2019,validation_fold,6,70143,61933
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2020,validation_fold,7,67762,67715
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,3963
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,4168
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,3885
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4345
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4430
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4562
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4410
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,11160
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,11265
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11424
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11611
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,11633
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,11052
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12273
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,36681
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,35650
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,37085
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,38398
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,40861
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,41745
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,43629
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2014,validation_fold,1,84348,84431
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2015,validation_fold,2,86668,78573
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2016,validation_fold,3,86860,85523
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2017,validation_fold,4,89970,89637
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2018,validation_fold,5,90050,88658
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2019,validation_fold,6,90810,90543
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2020,validation_fold,7,85589,85393
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11613
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,11817
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,12245
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,13243
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,13819
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,13526
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,14612
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,46919
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,46502
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,47649
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,46870
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,47150
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,49802
+GRU_Baseline_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,47108
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,46832
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,47258
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,48321
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49218
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,46993
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,47487
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,48506
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,41751
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,41792
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,37120
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,39694
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,46417
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,43747
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,42766
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2014,validation_fold,1,63018,59186
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2015,validation_fold,2,64028,52873
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2016,validation_fold,3,65126,62410
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2017,validation_fold,4,66574,60618
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2018,validation_fold,5,68302,64189
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2019,validation_fold,6,70143,65765
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2020,validation_fold,7,67762,66331
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,3386
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,4169
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,4070
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,3884
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,3994
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4146
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4408
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,11173
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,10290
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11406
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11261
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,11878
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,11917
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12172
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,32386
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,35869
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,35516
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,34298
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,39273
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,38619
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,41520
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2014,validation_fold,1,84348,82977
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2015,validation_fold,2,86668,77441
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2016,validation_fold,3,86860,82657
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2017,validation_fold,4,89970,80316
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2018,validation_fold,5,90050,85758
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2019,validation_fold,6,90810,82972
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2020,validation_fold,7,85589,85352
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,10227
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,11001
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,9241
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,11533
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,11777
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,13653
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,7071
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,42868
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,46927
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,44570
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,48223
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,48922
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,44856
+GRU_RandomForest_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,47214
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,47995
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,48254
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,47055
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49185
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,48427
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,47536
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,48580
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,40265
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,35811
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,38310
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,37623
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,44502
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,39094
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,48077
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2014,validation_fold,1,63018,55963
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2015,validation_fold,2,64028,63306
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2016,validation_fold,3,65126,65051
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2017,validation_fold,4,66574,63058
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2018,validation_fold,5,68302,65586
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2019,validation_fold,6,70143,65808
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Europe & Central Asia,2020,validation_fold,7,67762,66666
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,3484
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,3833
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,3746
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4090
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4248
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4389
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4015
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,8253
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,9459
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11030
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,10959
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,11377
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,12245
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,12330
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,29092
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,35060
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,38199
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,36229
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,36430
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,39096
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,39738
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2014,validation_fold,1,84348,80643
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2015,validation_fold,2,86668,86639
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2016,validation_fold,3,86860,84187
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2017,validation_fold,4,89970,89842
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2018,validation_fold,5,90050,81339
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2019,validation_fold,6,90810,86910
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,High income - Middle East & North Africa,2020,validation_fold,7,85589,85735
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11400
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,11978
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,10935
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,10601
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,13094
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,12853
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,13995
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,46967
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,45998
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,43114
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,43261
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,49289
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,45835
+GRU_EnsembleSimpleMethods_batch_size-1_dropout_rate-0.1_hidden_dim-10_learning_rate-0.0001,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,47244
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2014,validation_fold,1,49103,46686
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2015,validation_fold,2,48260,48736
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2016,validation_fold,3,49910,49875
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2017,validation_fold,4,49540,49328
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2018,validation_fold,5,48450,48470
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2019,validation_fold,6,47533,47726
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Middle East & North Africa,2020,validation_fold,7,49895,48366
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2014,validation_fold,1,41917,39080
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2015,validation_fold,2,42447,42425
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2016,validation_fold,3,42651,42847
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2017,validation_fold,4,44584,44421
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2018,validation_fold,5,46372,46339
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2019,validation_fold,6,47973,47844
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Europe & Central Asia,2020,validation_fold,7,50208,47048
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2014,validation_fold,1,63018,63076
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2015,validation_fold,2,64028,64006
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2016,validation_fold,3,65126,65311
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2017,validation_fold,4,66574,66468
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2018,validation_fold,5,68302,64637
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2019,validation_fold,6,70143,68158
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Europe & Central Asia,2020,validation_fold,7,67762,63396
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2014,validation_fold,1,4063,4075
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2015,validation_fold,2,4176,3965
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2016,validation_fold,3,4271,4268
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2017,validation_fold,4,4347,4152
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2018,validation_fold,5,4449,4461
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2019,validation_fold,6,4542,4452
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Low income - Sub-Saharan Africa,2020,validation_fold,7,4414,4413
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2014,validation_fold,1,11135,11135
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2015,validation_fold,2,11257,11133
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2016,validation_fold,3,11416,11270
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2017,validation_fold,4,11732,11751
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2018,validation_fold,5,12309,12274
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2019,validation_fold,6,12549,12354
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Sub-Saharan Africa,2020,validation_fold,7,12290,11879
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2014,validation_fold,1,36672,36010
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2015,validation_fold,2,37660,35600
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2016,validation_fold,3,38254,37610
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2017,validation_fold,4,39541,39562
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2018,validation_fold,5,40918,37869
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2019,validation_fold,6,41788,37140
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Middle East & North Africa,2020,validation_fold,7,41912,36323
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2014,validation_fold,1,84348,82759
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2015,validation_fold,2,86668,79793
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2016,validation_fold,3,86860,81904
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2017,validation_fold,4,89970,83342
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2018,validation_fold,5,90050,84349
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2019,validation_fold,6,90810,91302
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,High income - Middle East & North Africa,2020,validation_fold,7,85589,84958
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2014,validation_fold,1,11756,11744
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2015,validation_fold,2,12027,11871
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2016,validation_fold,3,12495,12537
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2017,validation_fold,4,13227,11947
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2018,validation_fold,5,13957,11994
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2019,validation_fold,6,14630,10215
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Lower middle income - Europe & Central Asia,2020,validation_fold,7,14663,14569
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2014,validation_fold,1,46924,47017
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2015,validation_fold,2,46813,46867
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2016,validation_fold,3,47857,47976
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2017,validation_fold,4,48270,48281
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2018,validation_fold,5,49252,47434
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2019,validation_fold,6,49752,38776
+GRU_DomainBased_batch_size-1_dropout_rate-0.2_hidden_dim-10_learning_rate-0.0005,Upper middle income - Sub-Saharan Africa,2020,validation_fold,7,47224,47272
