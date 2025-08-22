@@ -1,0 +1,409 @@
+Series Name,Series Code,Topic,SDG Goal,Include
+Net official development assistance received (constant 2020 US$),DT.ODA.ODAT.KD,Economic Policy & Debt: Official development assistance,[17],
+Debt service to exports (%),DT.TDS.DPPF.XP.ZS,Economic Policy & Debt: External debt: Debt service,[17],
+Access to clean fuels and technologies for cooking  (% of population),EG.CFT.ACCS.ZS,Environment: Energy production & use,[7],
+Annual deforestation (% of change),ER.FST.DFST.ZG,Environment: Land use,[15],
+Household and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[12],
+"Multidimensional poverty headcount ratio, children (% of child population)",SI.POV.MDIM.17,Poverty: Multidimensional poverty,[1],
+"Multidimensional poverty index, children (scale 0-1)",SI.POV.MDIM.17.XQ,Poverty: Multidimensional poverty,[1],
+Multidimensional poverty intensity,SI.POV.MDIM.IT,Poverty: Multidimensional poverty,[1],
+Forest area (sq. km),AG.LND.FRST.K2,Environment: Land use,[15],TRUE
+Forest area (% of land area),AG.LND.FRST.ZS,Environment: Land use,[15],TRUE
+Cereal yield (kg per hectare),AG.YLD.CREL.KG,Environment: Agricultural production,[2],TRUE
+Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,Economic Policy & Debt: Balance of payments: Current account: Balances,[17],TRUE
+"Portfolio Investment, net (BoP, current US$)",BN.KLT.PTXL.CD,Economic Policy & Debt: Balance of payments: Capital & financial account,[17],TRUE
+"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,Economic Policy & Debt: Balance of payments: Capital & financial account,[17],TRUE
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,Economic Policy & Debt: Balance of payments: Capital & financial account,[17],TRUE
+"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,Economic Policy & Debt: Balance of payments: Current account: Transfers,"[10,17]",TRUE
+External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,Economic Policy & Debt: External debt: Debt ratios & other items,[17],TRUE
+Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,Economic Policy & Debt: Official development assistance,[17],TRUE
+Net official development assistance received (current US$),DT.ODA.ODAT.CD,Economic Policy & Debt: Official development assistance,[17],TRUE
+Net official development assistance received (current US$),DT.ODA.ODAT.CD1,Economic Policy & Debt: Official development assistance,[17],TRUE
+Agriculture value added per worker (constant 2010 US$),EA.PRD.AGRI.KD,Environment: Agricultural production,[2],TRUE
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,Environment: Energy production & use,[7],TRUE
+"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,Environment: Energy production & use,[7],
+"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,Environment: Energy production & use,[7],
+Access to electricity (% of population),EG.ELC.ACCS.ZS,Environment: Energy production & use,[7],TRUE
+Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,Environment: Energy production & use,[7],TRUE
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,Environment: Energy production & use,[7],TRUE
+CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,Environment: Emissions,"[9,13]",
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,Environment: Emissions,[13],TRUE
+CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,Environment: Emissions,[13],TRUE
+CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,Environment: Emissions,[13],
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,Environment: Emissions,"[3,11]",TRUE
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,Environment: Emissions,"[3,11]",TRUE
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,Environment: Emissions,"[3,11]",TRUE
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,Environment: Emissions,"[3,11]",TRUE
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,Environment: Emissions,"[3,11]",TRUE
+"Bird species, threatened",EN.BIR.THRD.NO,Environment: Biodiversity & protected areas,[15],TRUE
+Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,Environment: Land use,[13],TRUE
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,Environment: Land use,[13],TRUE
+"Fish species, threatened",EN.FSH.THRD.NO,Environment: Biodiversity & protected areas,[14],TRUE
+"Plant species (higher), threatened",EN.HPT.THRD.NO,Environment: Biodiversity & protected areas,[15],TRUE
+"Mammal species, threatened",EN.MAM.THRD.NO,Environment: Biodiversity & protected areas,[15],TRUE
+Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,Environment: Density & urbanization,[11],TRUE
+Aquaculture production (metric tons),ER.FSH.AQUA.MT,Environment: Agricultural production,[14],TRUE
+Capture fisheries production (metric tons),ER.FSH.CAPT.MT,Environment: Agricultural production,[14],TRUE
+Total fisheries production (metric tons),ER.FSH.PROD.MT,Environment: Agricultural production,[14],TRUE
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,Environment: Freshwater,[6],TRUE
+"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Environment: Freshwater,[6],TRUE
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Environment: Freshwater,[6],TRUE
+"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Environment: Freshwater,[6],TRUE
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,Environment: Freshwater,[6],TRUE
+"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Environment: Freshwater,[6],TRUE
+"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Environment: Freshwater,[6],TRUE
+"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,Environment: Freshwater,[6],TRUE
+Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,Environment: Freshwater,[6],TRUE
+Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,Environment: Biodiversity & protected areas,[15],TRUE
+Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,Environment: Biodiversity & protected areas,[14],TRUE
+Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,Environment: Biodiversity & protected areas,"[14,15]",TRUE
+Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,Financial Sector: Assets,[8],TRUE
+Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,Financial Sector: Assets,[8],TRUE
+"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,Financial Sector: Access,[8],TRUE
+Total reserves in months of imports,FI.RES.TOTL.MO,Economic Policy & Debt: Balance of payments: Reserves & other items,[17],TRUE
+Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Financial Sector: Monetary holdings (liabilities),[17],TRUE
+Broad money growth (annual %),FM.LBL.BMNY.ZG,Financial Sector: Monetary holdings (liabilities),[8],TRUE
+"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,Financial Sector: Exchange rates & prices,[8],TRUE
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,Financial Sector: Access,"[1,8, 10]",
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,Financial Sector: Access,"[8,10]",
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,Financial Sector: Access,"[5,8]",
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,Financial Sector: Access,[8],
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,Financial Sector: Access,[8],
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,Financial Sector: Access,"[4,8]",
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,Financial Sector: Access,"[4,8]",
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,Financial Sector: Access,[8],
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,Financial Sector: Access,[8],TRUE
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,Infrastructure: Technology,[9],TRUE
+Tax revenue (current LCU),GC.TAX.TOTL.CN,Public Sector: Government finance: Revenue,[17],TRUE
+Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,Public Sector: Government finance: Revenue,[17],TRUE
+Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,Public Sector: Government finance,[16],TRUE
+"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,Private Sector & Trade: Business environment,[8],TRUE
+Bribery incidence (% of firms experiencing at least one bribe payment request),IC.FRM.BRIB.ZS,Private Sector & Trade: Business environment,[16],TRUE
+Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,Private Sector & Trade: Business environment,"[5,8]",TRUE
+Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS,Private Sector & Trade: Business environment,"[5,8]",TRUE
+Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS,Private Sector & Trade: Business environment,[16],TRUE
+Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,Private Sector & Trade: Private infrastructure investment,[7],TRUE
+Investment in telecoms with private participation (current US$),IE.PPI.TELE.CD,Private Sector & Trade: Private infrastructure investment,[9],TRUE
+Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,Private Sector & Trade: Private infrastructure investment,[9],TRUE
+Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,Private Sector & Trade: Private infrastructure investment,[6],TRUE
+"Patent applications, nonresidents",IP.PAT.NRES,Infrastructure: Technology,[9],TRUE
+"Patent applications, residents",IP.PAT.RESD,Infrastructure: Technology,[9],TRUE
+Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,Public Sector: Policy & institutions,[17],TRUE
+Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,Public Sector: Policy & institutions,[17],TRUE
+Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,Public Sector: Policy & institutions,[17],TRUE
+Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,Public Sector: Policy & institutions,[17],TRUE
+"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,Infrastructure: Transportation,[9],TRUE
+"Air transport, passengers carried",IS.AIR.PSGR,Infrastructure: Transportation,[9],TRUE
+"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,Infrastructure: Transportation,[9],TRUE
+"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,Infrastructure: Transportation,[9],TRUE
+Individuals using the Internet (% of population),IT.NET.USER.ZS,Infrastructure: Communications,"[9,17]",TRUE
+General government final consumption expenditure (constant 2015 US$),NE.CON.GOVT.KD,Economic Policy & Debt: National accounts: Growth rates,[17],TRUE
+General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[17],TRUE
+Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,"[8,17]",TRUE
+Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,"[8,17]",TRUE
+Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[9],TRUE
+Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[17],TRUE
+"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Value added,"[2,8]",TRUE
+"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Value added,"[8,9]",TRUE
+"Manufacturing, value added (current US$)",NV.IND.MANF.CD,Economic Policy & Debt: National accounts: US$ at current prices: Value added,[9],
+"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,[9],TRUE
+Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,Economic Policy & Debt: National accounts: Shares of GDP & other,[9],TRUE
+"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Value added,[8],TRUE
+"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,Economic Policy & Debt: National accounts: Adjusted savings & income,[12],TRUE
+Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,Environment: Natural resources contribution to GDP,[12],TRUE
+Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,Environment: Natural resources contribution to GDP,[15],TRUE
+Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,Environment: Natural resources contribution to GDP,[12],TRUE
+GDP (current US$),NY.GDP.MKTP.CD,Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,[8],TRUE
+GDP (current LCU),NY.GDP.MKTP.CN,Economic Policy & Debt: National accounts: Local currency at current prices: Aggregate indicators,[8],
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Aggregate indicators,[8],
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[8],TRUE
+GDP (constant LCU),NY.GDP.MKTP.KN,Economic Policy & Debt: National accounts: Local currency at constant prices: Aggregate indicators,[8],
+"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,Economic Policy & Debt: Purchasing power parity,[8],TRUE
+"GDP, PPP (constant 2017 international $)",NY.GDP.MKTP.PP.KD,Economic Policy & Debt: Purchasing power parity,[8],
+Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,Environment: Natural resources contribution to GDP,[12],TRUE
+GDP per capita (current US$),NY.GDP.PCAP.CD,Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,[8],TRUE
+GDP per capita (current LCU),NY.GDP.PCAP.CN,Economic Policy & Debt: National accounts: Local currency at current prices: Aggregate indicators,[8],
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Aggregate indicators,[8],
+GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[8],TRUE
+GDP per capita (constant LCU),NY.GDP.PCAP.KN,Economic Policy & Debt: National accounts: Local currency at constant prices: Aggregate indicators,[8],
+"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Economic Policy & Debt: Purchasing power parity,[8],TRUE
+"GDP per capita, PPP (constant 2017 international $)",NY.GDP.PCAP.PP.KD,Economic Policy & Debt: Purchasing power parity,[8],
+Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,Environment: Natural resources contribution to GDP,[12],TRUE
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Environment: Natural resources contribution to GDP,[12],TRUE
+GNI (constant 2015 US$),NY.GNP.MKTP.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Aggregate indicators,[8],
+GNI growth (annual %),NY.GNP.MKTP.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[8],TRUE
+GNI (constant LCU),NY.GNP.MKTP.KN,Economic Policy & Debt: National accounts: Local currency at constant prices: Aggregate indicators,[8],
+GNI per capita (US$),NY.GNP.MKTP.PC.CD,Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,[8],TRUE
+"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,Economic Policy & Debt: Purchasing power parity,[8],TRUE
+"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,Economic Policy & Debt: Purchasing power parity,[8],
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita,[8],
+GNI per capita (current LCU),NY.GNP.PCAP.CN,Economic Policy & Debt: National accounts: Local currency at current prices: Aggregate indicators,[8],
+GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Aggregate indicators,[8],
+GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,Economic Policy & Debt: National accounts: Growth rates,[8],TRUE
+GNI per capita (constant LCU),NY.GNP.PCAP.KN,Economic Policy & Debt: National accounts: Local currency at constant prices: Aggregate indicators,[8],
+"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,Economic Policy & Debt: Purchasing power parity,[8],TRUE
+"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,Economic Policy & Debt: Purchasing power parity,[8],
+DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,Financial Sector: Exchange rates & prices,[17],TRUE
+"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP,Economic Policy & Debt: Purchasing power parity,[17],TRUE
+"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP,Economic Policy & Debt: Purchasing power parity,[12],TRUE
+Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot,Social Protection & Labor: Performance,"[1,8, 10]",TRUE
+Coverage of unemployment benefits and ALMP in poorest quintile (% of population),per_lm_alllm.cov_q1_tot,Social Protection & Labor: Performance,"[1,8, 10]",
+Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),per_lm_alllm.cov_q2_tot,Social Protection & Labor: Performance,"[8,10]",
+Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),per_lm_alllm.cov_q3_tot,Social Protection & Labor: Performance,"[8,10]",
+Coverage of unemployment benefits and ALMP in 4th quintile (% of population),per_lm_alllm.cov_q4_tot,Social Protection & Labor: Performance,"[8,10]",
+Coverage of unemployment benefits and ALMP in richest quintile (% of population),per_lm_alllm.cov_q5_tot,Social Protection & Labor: Performance,"[8,10]",
+Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot,Social Protection & Labor: Performance,"[1,10]",TRUE
+Coverage of social safety net programs in poorest quintile (% of population),per_sa_allsa.cov_q1_tot,Social Protection & Labor: Performance,"[1,10]",
+Coverage of social safety net programs in 2nd quintile (% of population),per_sa_allsa.cov_q2_tot,Social Protection & Labor: Performance,[10],
+Coverage of social safety net programs in 3rd quintile (% of population),per_sa_allsa.cov_q3_tot,Social Protection & Labor: Performance,[10],
+Coverage of social safety net programs in 4th quintile (% of population),per_sa_allsa.cov_q4_tot,Social Protection & Labor: Performance,[10],
+Coverage of social safety net programs in richest quintile (% of population),per_sa_allsa.cov_q5_tot,Social Protection & Labor: Performance,[10],
+Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot,Social Protection & Labor: Performance,"[1,3, 10]",TRUE
+Coverage of social insurance programs in poorest quintile (% of population),per_si_allsi.cov_q1_tot,Social Protection & Labor: Performance,"[1,3, 10]",
+Coverage of social insurance programs in 2nd quintile (% of population),per_si_allsi.cov_q2_tot,Social Protection & Labor: Performance,"[3,10]",
+Coverage of social insurance programs in 3rd quintile (% of population),per_si_allsi.cov_q3_tot,Social Protection & Labor: Performance,"[3,10]",
+Coverage of social insurance programs in 4th quintile (% of population),per_si_allsi.cov_q4_tot,Social Protection & Labor: Performance,"[3,10]",
+Coverage of social insurance programs in richest quintile (% of population),per_si_allsi.cov_q5_tot,Social Protection & Labor: Performance,"[3,10]",
+"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Education: Outcomes,[4],
+"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Education: Outcomes,"[4,5]",
+"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Education: Outcomes,[4],
+"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,Education: Outcomes,[4],TRUE
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Education: Outcomes,[4],
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Education: Outcomes,[4],
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Education: Outcomes,[4],TRUE
+"Compulsory education, duration (years)",SE.COM.DURS,Education: Outcomes,[4],TRUE
+"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,Education: Participation,"[4,5]",TRUE
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,Education: Participation,"[4,5]",TRUE
+"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,Education: Participation,"[4,5]",TRUE
+"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,Education: Participation,"[4,5]",TRUE
+"Preprimary education, duration (years)",SE.PRE.DURS,Education: Inputs,[4],TRUE
+"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS,Education: Inputs,[4],TRUE
+"School enrollment, preprimary (% gross)",SE.PRE.ENRR,Education: Participation,[4],TRUE
+"School enrollment, preprimary, female (% gross)",SE.PRE.ENRR.FE,Education: Participation,[4],
+"School enrollment, preprimary, male (% gross)",SE.PRE.ENRR.MA,Education: Participation,[4],
+"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS,Education: Inputs,[4],
+"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS,Education: Inputs,[4],
+Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS,Education: Inputs,[4],TRUE
+"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,Education: Outcomes,[4],
+"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,Education: Outcomes,[4],
+"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,Education: Outcomes,[4],
+"Primary education, duration (years)",SE.PRM.DURS,Education: Outcomes,[4],TRUE
+"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS,Education: Inputs,[4],TRUE
+"Over-age students, primary, female (% of female enrollment)",SE.PRM.OENR.FE.ZS,Education: Efficiency,[4],
+"Over-age students, primary, male (% of male enrollment)",SE.PRM.OENR.MA.ZS,Education: Efficiency,[4],
+"Over-age students, primary (% of enrollment)",SE.PRM.OENR.ZS,Education: Efficiency,[4],TRUE
+"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,Education: Inputs,[4],
+"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,Education: Inputs,[4],
+Trained teachers in primary education (% of total teachers),SE.PRM.TCAQ.ZS,Education: Inputs,[4],TRUE
+"Children out of school, primary",SE.PRM.UNER,Education: Participation,[4],TRUE
+"Children out of school, primary, female",SE.PRM.UNER.FE,Education: Participation,[4],
+"Children out of school, female (% of female primary school age)",SE.PRM.UNER.FE.ZS,Education: Participation,[4],
+"Children out of school, primary, male",SE.PRM.UNER.MA,Education: Participation,[4],
+"Children out of school, male (% of male primary school age)",SE.PRM.UNER.MA.ZS,Education: Participation,[4],
+Children out of school (% of primary school age),SE.PRM.UNER.ZS,Education: Participation,[4],TRUE
+"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS,Education: Outcomes,[4],
+"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS,Education: Outcomes,[4],
+"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,Education: Outcomes,[4],TRUE
+"Secondary education, duration (years)",SE.SEC.DURS,Education: Outcomes,[4],TRUE
+"Pupil-teacher ratio, lower secondary",SE.SEC.ENRL.LO.TC.ZS,Education: Inputs,[4],TRUE
+"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS,Education: Inputs,[4],TRUE
+"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS,Education: Inputs,[4],TRUE
+"Trained teachers in secondary education, female (% of female teachers)",SE.SEC.TCAQ.FE.ZS,Education: Inputs,[4],
+"Trained teachers in lower secondary education, female (% of female teachers)",SE.SEC.TCAQ.LO.FE.ZS,Education: Inputs,[4],
+"Trained teachers in lower secondary education, male (% of male teachers)",SE.SEC.TCAQ.LO.MA.ZS,Education: Inputs,[4],
+Trained teachers in lower secondary education (% of total teachers),SE.SEC.TCAQ.LO.ZS,Education: Inputs,[4],TRUE
+"Trained teachers in secondary education, male (% of male teachers)",SE.SEC.TCAQ.MA.ZS,Education: Inputs,[4],
+"Trained teachers in upper secondary education, female (% of female teachers)",SE.SEC.TCAQ.UP.FE.ZS,Education: Inputs,[4],
+"Trained teachers in upper secondary education, male (% of male teachers)",SE.SEC.TCAQ.UP.MA.ZS,Education: Inputs,[4],
+Trained teachers in upper secondary education (% of total teachers),SE.SEC.TCAQ.UP.ZS,Education: Inputs,[4],TRUE
+Trained teachers in secondary education (% of total teachers),SE.SEC.TCAQ.ZS,Education: Inputs,[4],TRUE
+"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,Education: Participation,[4],
+"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,Education: Participation,[4],
+Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,Education: Participation,[4],TRUE
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.DO.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.DO.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.MS.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.MS.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,Education: Outcomes,[4],TRUE
+"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",SE.TER.CUAT.ST.MA.ZS,Education: Outcomes,[4],
+"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS,Education: Outcomes,[4],TRUE
+"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS,Education: Inputs,[4],TRUE
+"School enrollment, tertiary (% gross)",SE.TER.ENRR,Education: Participation,[4],TRUE
+"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,Education: Participation,[4],
+"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,Education: Participation,[4],
+"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care  (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,Gender: Public life & decision making,[5],TRUE
+Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,Gender: Public life & decision making,[5],TRUE
+Women Business and the Law Index Score (scale 1-100),SG.LAW.INDX,Gender: Public life & decision making,[5],TRUE
+Nondiscrimination clause mentions gender in the constitution (1=yes; 0=no),SG.NOD.CONS,Gender: Public life & decision making,[5],TRUE
+"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",SG.TIM.UWRK.FE,Gender: Participation & access,[5],
+"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",SG.TIM.UWRK.MA,Gender: Participation & access,[5],
+Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),SG.VAW.1549.ZS,Gender: Health,"[5,16]",TRUE
+"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,Health: Risk factors,[3],
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,Health: Risk factors,[3],TRUE
+"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,Health: Risk factors,[3],
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS,Health: Nutrition,"[2,3]",TRUE
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Health: Risk factors,[3],TRUE
+"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,Health: Mortality,[3],TRUE
+"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,Health: Mortality,[3],
+"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,Health: Mortality,[3],
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,Health: Mortality,[3],
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS,Health: Mortality,[3],
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS,Health: Mortality,[3],TRUE
+"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,Health: Mortality,[3],TRUE
+Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS,Health: Reproductive health,"[3,5]",TRUE
+"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS,Health: Disease prevention,[6],
+"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,Health: Disease prevention,[6],
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Health: Disease prevention,[6],TRUE
+"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS,Health: Disease prevention,[6],
+"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS,Health: Disease prevention,[6],
+People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,Health: Disease prevention,[6],TRUE
+"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,Health: Risk factors,[3],
+"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,Health: Risk factors,[3],
+"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,Health: Risk factors,[3],TRUE
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Health: Disease prevention,[3],TRUE
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Health: Disease prevention,[3],TRUE
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Health: Disease prevention,[3],TRUE
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Health: Health systems,[3],TRUE
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Health: Health systems,[3],TRUE
+"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,Health: Risk factors,[3],TRUE
+"Prevalence of current tobacco use, females (% of female adults)",SH.PRV.SMOK.FE,Health: Risk factors,[3],
+"Prevalence of current tobacco use, males (% of male adults)",SH.PRV.SMOK.MA,Health: Risk factors,[3],
+"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5,Health: Mortality,[3],
+"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5,Health: Mortality,[3],
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5,Health: Mortality,[3],TRUE
+"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,Health: Disease prevention,[6],
+"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,Health: Disease prevention,[6],
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Health: Disease prevention,[6],TRUE
+Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS,Health: Nutrition,"[2,3]",TRUE
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Health: Reproductive health,[3],TRUE
+Female genital mutilation prevalence (%),SH.STA.FGMS.ZS,Health: Risk factors,"[5,3]",TRUE
+"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS,Health: Disease prevention,[6],
+"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,Health: Disease prevention,[6],
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Health: Disease prevention,[6],TRUE
+"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Health: Nutrition,"[2,3]",
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,Health: Reproductive health,[3],TRUE
+"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,Health: Risk factors,[6],
+"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS,Health: Risk factors,[6],
+People practicing open defecation (% of population),SH.STA.ODFC.ZS,Health: Risk factors,[6],TRUE
+"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS,Health: Nutrition,"[2,3]",TRUE
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,Health: Mortality,[3],TRUE
+"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,Health: Mortality,[3],
+"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA,Health: Mortality,[3],
+"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS,Health: Disease prevention,[6],
+"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS,Health: Disease prevention,[6],
+People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,Health: Disease prevention,[6],TRUE
+"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,Health: Nutrition,"[2,3]",TRUE
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,Health: Mortality,[3],
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,Health: Mortality,[3],
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,Health: Mortality,[3],TRUE
+"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,Health: Mortality,[3],TRUE
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Health: Mortality,"[3,6]",TRUE
+"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS,Health: Nutrition,"[2,3]",TRUE
+"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS,Health: Nutrition,"[2,3]",
+"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS,Health: Nutrition,"[2,3]",
+"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,Health: Risk factors,[3],TRUE
+Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,Health: Universal Health Coverage,[3],TRUE
+Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,Health: Universal Health Coverage,[3],TRUE
+Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,Health: Universal Health Coverage,[3],TRUE
+Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.25.ZS,Health: Universal Health Coverage,[3],TRUE
+Proportion of people living below 50 percent of median income (%),SI.DST.50MD,Poverty: Income distribution,[10],TRUE
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,Poverty: Poverty rates,[1],TRUE
+Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,Poverty: Multidimensional poverty,[1],TRUE
+"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,Poverty: Multidimensional poverty,"[1,5]",
+"Multidimensional poverty headcount ratio, household (% of total households)",SI.POV.MDIM.HH,Poverty: Multidimensional poverty,[1],
+"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,Poverty: Multidimensional poverty,[1],
+Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ,Poverty: Multidimensional poverty,[1],TRUE
+Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty: Poverty rates,[1],TRUE
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Poverty: Poverty rates,[1],TRUE
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Poverty: Poverty rates,[1],TRUE
+Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS,Financial Sector: Access,"[10,17]",TRUE
+Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS,Financial Sector: Access,"[10,17]",TRUE
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,Poverty: Shared prosperity,"[1,10]",
+"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,Poverty: Shared prosperity,"[1,10]",TRUE
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Social Protection & Labor: Economic activity,"[5,8]",
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Social Protection & Labor: Economic activity,[8],
+Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Social Protection & Labor: Economic activity,[8],TRUE
+Female share of employment in senior and middle management (%),SL.EMP.SMGT.FE.ZS,Social Protection & Labor: Economic activity,"[5,8]",TRUE
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,Social Protection & Labor: Economic activity,"[5,8]",
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,Social Protection & Labor: Economic activity,[8],
+"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,Social Protection & Labor: Economic activity,[8],TRUE
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,Social Protection & Labor: Economic activity,"[5,8]",TRUE
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,Social Protection & Labor: Economic activity,[8],TRUE
+GDP per person employed (constant 2017 PPP $),SL.GDP.PCAP.EM.KD,Social Protection & Labor: Economic activity,[8],TRUE
+"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,Social Protection & Labor: Economic activity,"[5,8, 9]",
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,Social Protection & Labor: Economic activity,"[8,9]",
+Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,Social Protection & Labor: Economic activity,"[8,9]",TRUE
+"Informal employment, female (% of total non-agricultural employment)",SL.ISV.IFRM.FE.ZS,Social Protection & Labor: Economic activity,"[5,8]",
+"Informal employment, male (% of total non-agricultural employment)",SL.ISV.IFRM.MA.ZS,Social Protection & Labor: Economic activity,[8],
+Informal employment (% of total non-agricultural employment),SL.ISV.IFRM.ZS,Social Protection & Labor: Economic activity,[8],TRUE
+"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,Social Protection & Labor: Economic activity,"[5,8]",
+"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,Social Protection & Labor: Economic activity,[8],
+Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,Social Protection & Labor: Economic activity,[8],TRUE
+"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,Social Protection & Labor: Economic activity,[8],
+"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,Social Protection & Labor: Economic activity,[8],
+"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,Social Protection & Labor: Economic activity,[8],TRUE
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Social Protection & Labor: Unemployment,"[5,8]",
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Social Protection & Labor: Unemployment,"[5,8]",
+"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Social Protection & Labor: Unemployment,[8],
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Social Protection & Labor: Unemployment,[8],
+"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Social Protection & Labor: Unemployment,[8],
+"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Social Protection & Labor: Unemployment,[8],TRUE
+"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS,Social Protection & Labor: Unemployment,"[4,5, 8]",
+"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,Social Protection & Labor: Unemployment,"[4,8]",
+"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,Social Protection & Labor: Unemployment,"[4,8]",TRUE
+"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Social Protection & Labor: Unemployment,"[5,8]",
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Social Protection & Labor: Unemployment,"[5,8]",
+"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Social Protection & Labor: Unemployment,[8],
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Social Protection & Labor: Unemployment,[8],
+"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Social Protection & Labor: Unemployment,[8],
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Social Protection & Labor: Unemployment,[8],TRUE
+Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,Health: Nutrition,[2],TRUE
+Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Health,[2],TRUE
+Prevalence of severe food insecurity in the population (%),SN.ITK.SVFI.ZS,Health,[2],TRUE
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Health: Reproductive health,"[3,5]",TRUE
+Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS,Gender: Agency,[5],TRUE
+Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS,Gender: Agency,[5],TRUE
+Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,Infrastructure: Technology,[9],TRUE
+"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,Health: Population: Dynamics,[16],
+"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,Health: Population: Dynamics,[16],
+"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS,Health: Population: Dynamics,[16],
+"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS,Health: Population: Dynamics,[16],
+Completeness of birth registration (%),SP.REG.BRTH.ZS,Health: Population: Dynamics,[16],TRUE
+Urban population growth (annual %),SP.URB.GROW,Environment: Density & urbanization,[11],
+Urban population,SP.URB.TOTL,Environment: Density & urbanization,[11],TRUE
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Environment: Density & urbanization,[11],TRUE
+Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,Private Sector & Trade: Total merchandise trade,[17],TRUE
+"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS,Private Sector & Trade: Tariffs,[17],TRUE
+"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,Private Sector & Trade: Tariffs,[17],TRUE
+"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,Private Sector & Trade: Tariffs,[17],TRUE
+"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,Private Sector & Trade: Tariffs,[17],TRUE
+"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,Private Sector & Trade: Tariffs,[17],TRUE
+"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,Private Sector & Trade: Tariffs,[17],TRUE
+Battle-related deaths (number of people),VC.BTL.DETH,Public Sector: Conflict & fragility,[16],TRUE
+"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,Public Sector: Conflict & fragility,"[5,16]",
+"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,Public Sector: Conflict & fragility,[16],
+"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,Public Sector: Conflict & fragility,[16],TRUE

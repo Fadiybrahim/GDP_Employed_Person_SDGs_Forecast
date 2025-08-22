@@ -1,0 +1,293 @@
+line_number,line number,wb_code,wb_name,un_code,un_name,match score
+0,2,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking (% of population),EG_CFT_ACCS,Proportion of population with primary reliance on clean fuels and technology,90
+1,3,ER.FST.DFST.ZG,Annual deforestation (% of change),ER_FST_DFST,Annual deforestation rate,90
+2,7,FI.RES.AGRI.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",AG_LND_AGRI,Proportion of agricultural area under productive and sustainable agriculture,
+3,8,FI.RES.INDU.ZS,"Industry (including construction), value added (% of GDP)",IN_IND_MANF,Manufacturing value added as a proportion of GDP,
+4,9,FI.RES.SERV.ZS,"Services, value added (% of GDP)",SD_CPA_SVCFG,"Proportion of countries with national service delivery data by disability and disaggregation for service provision in food security and agriculture; education; employment and social protection; health; and WASH, disaggregated by sex and age",
+5,10,FM.AST.DOMS.CN,Domestic credit to private sector (% of GDP),FI_RES_DCREP,Domestic credit to private sector as a proportion of GDP,90
+6,11,FP.CPI.TOTL,"Inflation, consumer prices (annual %)",FP_CPI_TOTL,Average annual growth rate of Consumer Price Index (CPI),90
+7,12,IC.BUS.DFRN.XQ,"Starting a business, procedures (number)",IC_BUS_DFRN,Time required to start a business,
+8,13,IC.BUS.DISC.XQ,Time to resolve insolvency (years),IC_BUS_DISC,Time required to resolve insolvency,90
+9,14,IC.BUS.EASE.XQ,Ease of doing business score (100=best),IC_BUS_EASE,Index of regulatory governance,
+10,15,IC.BUS.NDRN.XQ,Labor tax and contributions (% of commercial profits),IC_BUS_NDRN,Total tax and contribution rate,
+11,16,IC.BUS.PRMT.XQ,New business registrations (number),IC_BUS_PRMT,Time required to deal with construction permits,
+12,17,IC.BUS.SRVC.XQ,Cost to enforce a contract (% of claim),IC_BUS_SRVC,Cost to enforce a contract,90
+13,18,IC.BUS.TNDR.XQ,Time to start a business (days),IC_BUS_TNDR,Time required to start a business,90
+14,19,IC.CRD.PRVT.ZS,Depth of credit information index (0=low to 8=high),IC_CRD_PRVT,Depth of credit information index,90
+15,20,IC.FRM.BCSI.ZS,Firms using banks to finance new investments (% of firms),IC_FRM_BCSI,Firms using banks to finance new investments,90
+16,21,IC.FRM.BGCZ.ZS,Firms that do not consider financial access a major constraint (% of firms),IC_FRM_BGCZ,Firms that do not consider financial access a major constraint,90
+17,22,IC.FRM.BNKS.ZS,Firms using banks to finance working capital (% of firms),IC_FRM_BNKS,Firms using banks to finance working capital,90
+18,23,IC.FRM.CMPA.ZS,Firms competing against unregistered firms (% of firms),IC_FRM_CMPA,Firms competing against unregistered firms,90
+19,24,IC.FRM.CORR.ZS,Firms experiencing corruption to get an operating license (% of firms),IC_FRM_CORR,Firms experiencing corruption to get an operating license,90
+20,25,IC.FRM.CRIM.ZS,Firms experiencing losses due to theft and vandalism (% of firms),IC_FRM_CRIM,Firms experiencing losses due to theft and vandalism,90
+21,26,IC.FRM.DURS.ZS,Average time to get an operating license (days),IC_FRM_DURS,Time required to obtain a building permit,
+22,27,IC.FRM.FEMO.ZS,Firms with female top manager (% of firms),IC_FRM_FEMO,Firms with female top manager,90
+23,28,IC.FRM.ISOC.ZS,Value of exports (% of sales of exporting firms),IC_FRM_ISOC,Value of exports as a proportion of total sales,
+24,29,IC.FRM.LCTY.ZS,Average time to clear exports through customs (days),IC_FRM_LCTY,Time required to export,
+25,30,IC.FRM.LNDS.ZS,Firms spending 25% or more of management time with government officials (% of firms),IC_FRM_LNDS,Firms spending 25% or more of management time with government officials,90
+26,31,IC.FRM.OUTG.ZS,Value of imports (% of sales of importing firms),IC_FRM_OUTG,Value of imports as a proportion of total sales,
+27,32,IC.FRM.PRIV.ZS,Private credit bureau coverage (% of adults),IC_FRM_PRIV,Private credit bureau coverage,90
+28,33,IC.FRM.PUBL.ZS,Public credit registry coverage (% of adults),IC_FRM_PUBL,Public credit registry coverage,90
+29,34,IC.FRM.RRSK.ZS,Firms without a checking or savings account (% of firms),IC_FRM_RRSK,Firms without a checking or savings account,90
+30,35,IC.FRM.TRNS.ZS,Firms expected to give gifts in meetings with tax officials (% of firms),IC_FRM_TRNS,Firms expected to give gifts in meetings with tax officials,90
+31,36,IC.LGL.CRED.XQ,Strength of legal rights index (0=weak to 12=strong),IC_LGL_CRED,Strength of legal rights index,90
+32,37,IC.LGL.PROT.XQ,Protection of minority investors index (0=low to 10=high),IC_LGL_PROT,Strength of minority investor protection index,90
+33,38,IP.JRN.ARTC.SC,Scientific and technical journal articles,IP_JRN_ARTC,Research and development expenditure as a proportion of GDP,
+34,39,IP.PAT.NRES,Patent applications by non-residents,IP_PAT_NRES,Total research and development personnel (in full-time equivalent) per million inhabitants,
+35,40,IP.PAT.RESD,Patent applications by residents,IP_PAT_RESD,Total research and development expenditure as a proportion of GDP,
+36,41,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),IQ_CPA_BREG,CPIA business regulatory environment rating,90
+37,42,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ_CPA_FINQ,CPIA quality of budgetary and financial management rating,90
+38,43,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),IQ_CPA_FINS,CPIA financial sector rating,90
+39,44,IQ.CPA.HARM.XQ,"CPIA harmonization, alignment and results orientation (1=low to 6=high)",IQ_CPA_HARM,"CPIA harmonization, alignment and results orientation",90
+40,45,IQ.CPA.IRST.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ_CPA_IRST,CPIA policy and institutions for environmental sustainability rating,90
+41,46,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),IQ_CPA_MACR,CPIA macroeconomic management rating,90
+42,47,IQ.CPA.PADM.XQ,CPIA public administration and institutions score (1=low to 6=high),IQ_CPA_PADM,CPIA quality of public administration cluster average,90
+43,48,IQ.CPA.PCEL.XQ,CPIA social protection rating (1=low to 6=high),IQ_CPA_PCEL,CPIA social protection rating,90
+44,49,IQ.CPA.PCEN.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ_CPA_PCEN,CPIA public sector management and institutions cluster average,90
+45,50,IQ.CPA.PRVT.XQ,CPIA equity of public resource use rating (1=low to 6=high),IQ_CPA_PRVT,CPIA equity of public resource use rating,90
+46,51,IQ.CPA.PUBS.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ_CPA_PUBS,"CPIA transparency, accountability, and corruption in the public sector rating",90
+47,52,IQ.CPA.PROT.XQ,CPIA building human resources rating (1=low to 6=high),IQ_CPA_PROT,CPIA building human resources rating,90
+48,53,IQ.CPA.RRGD.XQ,CPIA trade policies rating (1=low to 6=high),IQ_CPA_RRGD,CPIA trade policies rating,90
+49,54,IQ.CPA.SOCL.XQ,CPIA policies for social inclusion and equity cluster average (1=low to 6=high),IQ_CPA_SOCL,CPIA policies for social inclusion and equity cluster average,90
+50,55,IQ.SCI.OVRL.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ_SCI_OVRL,CPIA policy and institutions for environmental sustainability rating,90
+51,56,IQ.SPI.OVRL,CPIA social protection rating (1=low to 6=high),IQ_SPI_OVRL,CPIA social protection rating,90
+52,57,IQ.TLA.INCL.XQ,CPIA gender equality rating (1=low to 6=high),IQ_TLA_INCL,CPIA gender equality rating,90
+53,58,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),IT_CEL_SETS,"Proportion of population covered by a mobile network, by technology (2G, 3G, 4G and 5G)",
+54,59,IT.NET.BNDW,Fixed broadband subscriptions,IT_NET_BNDW,Proportion of households with access to the Internet,
+55,60,IT.NET.USER.ZS,Individuals using the Internet (% of population),IT_NET_USER,Proportion of individuals using the Internet,90
+56,61,LP.LPI.CMNL.XQ,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),LP_LPI_CMNL,Logistics performance index: Competence and quality of logistics services,90
+57,62,LP.LPI.CUST.XQ,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),LP_LPI_CUST,Logistics performance index: Efficiency of customs clearance process,90
+58,63,LP.LPI.INFR.XQ,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP_LPI_INFR,Logistics performance index: Quality of trade and transport-related infrastructure,90
+59,64,LP.LPI.INTL.XQ,Logistics performance index: Ease of arranging international shipments (1=low to 5=high),LP_LPI_INTL,Logistics performance index: Ease of arranging international shipments,90
+60,65,LP.LPI.OVRL.XQ,Logistics performance index: Overall score (1=low to 5=high),LP_LPI_OVRL,Logistics Performance Index (LPI),90
+61,66,LP.LPI.TIME.XQ,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),LP_LPI_TIME,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time,90
+62,67,LP.LPI.TRAC.XQ,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),LP_LPI_TRAC,Logistics performance index: Ability to track and trace consignments,90
+63,68,MS.MIL.XPND.GD.ZS,Military expenditure (% of GDP),MS_MIL_XPND,Military expenditure as a proportion of total government expenditure,
+64,69,MS.MIL.XPND.ZS,Military expenditure (% of general government expenditure),MS_MIL_XPND,Military expenditure as a proportion of total government expenditure,90
+65,70,NE.GDI.FPRT.ZS,Gross capital formation (formerly gross domestic investment) (% of GDP),NE_GDI_FPRT,Gross capital formation as a proportion of GDP,90
+66,71,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),NE_IMP_GNFS,Imports of goods and services as a proportion of GDP,90
+67,72,NE.RES.TOTL.ZS,Total reserves (% of external debt),NE_RES_TOTL,Total reserves as a proportion of total external debt,90
+68,73,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",NV_AGR_TOTL,Agricultural production value per unit of input,
+69,74,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",NV_IND_TOTL,Manufacturing value added as a proportion of GDP,
+70,75,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",NV_SRV_TOTL,Services value added as a proportion of GDP,90
+71,76,NY.ADF.POST.CD,Net official development assistance received (current US$),NY_ADF_POST,Net official development assistance received,90
+72,77,NY.ADF.POST.PC.ZS,Net official development assistance received per capita (current US$),NY_ADF_POST,Net official development assistance received,
+73,78,NY.GDP.PCAP.CD,GDP per capita (current US$),NY_GDP_PCAP,GDP per capita,90
+74,79,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),NY_GDP_PCAP,GDP per capita,
+75,80,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (current international $)",NY_GDP_PCAP,GDP per capita,
+76,81,NY.GDP.PCAP.PP.KD.ZG,"GDP per capita, PPP (annual % growth)",NY_GDP_PCAP,GDP per capita,
+77,82,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",FP_CPI_TOTL,Average annual growth rate of Consumer Price Index (CPI),
+78,83,NY.GDP.MKTP.CD,GDP (current US$),NY_GDP_MKTP,GDP (current US$),90
+79,84,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),NY_GDP_MKTP,GDP (current US$),
+80,85,NY.GDP.MKTP.PP.KD,"GDP, PPP (current international $)",NY_GDP_MKTP,GDP (current US$),
+81,86,NY.GDP.MKTP.PP.KD.ZG,"GDP, PPP (annual % growth)",NY_GDP_MKTP,GDP (current US$),
+82,87,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",NY_GNP_PCAP,"GNI per capita, Atlas method (current US$)",90
+83,88,NY.GNP.PCAP.KD,GNI per capita (constant 2015 US$),NY_GNP_PCAP,"GNI per capita, Atlas method (current US$)",
+84,89,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",NY_GNP_PCAP,"GNI per capita, Atlas method (current US$)",
+85,90,NY.GNP.MKTP.CD,"GNI, Atlas method (current US$)",NY_GNP_MKTP,"GNI per capita, Atlas method (current US$)",
+86,91,NY.GNP.MKTP.PP.CD,"GNI, PPP (current international $)",NY_GNP_MKTP,"GNI per capita, Atlas method (current US$)",
+87,92,NY.GOV.ADFL.CD,Net ODA received (current US$),NY_GOV_ADFL,Net official development assistance received,90
+88,93,NY.GOV.ADFL.ZS.ED,Net ODA received (% of gross national income),NY_GOV_ADFL,Net official development assistance received,
+89,94,NY.GOV.ADFL.ZS.GN,Net ODA received (% of GNI),NY_GOV_ADFL,Net official development assistance received,90
+90,95,NY.GOV.TOTL.ZS,General government final consumption expenditure (% of GDP),NY_GOV_TOTL,General government final consumption expenditure as a proportion of GDP,90
+91,96,NY.RES.PRVT.CD,"Private capital flows, total (BoP, current US$)",NY_RES_PRVT,Total government debt as a proportion of GDP,
+92,97,PA.NUS.ATLS,"Conversion factor, Atlas method (LCU per US$)",PA_NUS_ATLS,"Conversion factor, Atlas method (LCU per US$)",90
+93,98,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",PA_NUS_FCRF,"Official exchange rate (LCU per US$, period average)",90
+94,99,PX.REX.REVL,Real effective exchange rate index (2010 = 100),PX_REX_REVL,Real effective exchange rate index,90
+95,100,SE.ADT.1524.LT.ZS,"Literacy rate, youth (ages 15-24), total (%)",SE_ADT_1524,"Literacy rate, youth (ages 15-24)",90
+96,101,SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)",SE_ADT_LITR,"Literacy rate, adult total",90
+97,102,SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)",SE_ADT_LITR,"Literacy rate, adult female",90
+98,103,SE.ADT.LITR.MA.ZS,"Literacy rate, adult male (% of males ages 15 and above)",SE_ADT_LITR,"Literacy rate, adult male",90
+99,104,SE.PRM.ENRR,"Primary school enrollment, total",SE_PRM_ENRR,"Adjusted net enrolment rate, primary education",90
+100,105,SE.PRM.ENRR.FE,"Primary school enrollment, female",SE_PRM_ENRR,"Adjusted net enrolment rate, primary education, female",90
+101,106,SE.PRM.ENRR.MA,"Primary school enrollment, male",SE_PRM_ENRR,"Adjusted net enrolment rate, primary education, male",90
+102,107,SE.PRM.OENR.ZS,"Over-age students, primary (% of enrollment)",SE_PRM_OENR,Percentage of students over the official primary school age,90
+103,108,SE.PRM.OENR.FE.ZS,"Over-age students, primary, female (% of female enrollment)",SE_PRM_OENR,Percentage of female students over the official primary school age,90
+104,109,SE.PRM.OENR.MA.ZS,"Over-age students, primary, male (% of male enrollment)",SE_PRM_OENR,Percentage of male students over the official primary school age,90
+105,110,SE.PRM.TENR,"Primary school enrollment, total (gross %)",SE_PRM_TENR,"Gross enrolment ratio, primary education",90
+106,111,SE.PRM.TENR.FE,"Primary school enrollment, female (gross %)",SE_PRM_TENR,"Gross enrolment ratio, primary education, female",90
+107,112,SE.PRM.TENR.MA,"Primary school enrollment, male (gross %)",SE_PRM_TENR,"Gross enrolment ratio, primary education, male",90
+108,113,SE.SEC.ENRR,"Secondary school enrollment, total (net %)",SE_SEC_ENRR,"Adjusted net enrolment rate, secondary education",90
+109,114,SE.SEC.ENRR.FE,"Secondary school enrollment, female (net %)",SE_SEC_ENRR,"Adjusted net enrolment rate, secondary education, female",90
+110,115,SE.SEC.ENRR.MA,"Secondary school enrollment, male (net %)",SE_SEC_ENRR,"Adjusted net enrolment rate, secondary education, male",90
+111,116,SE.SEC.OENR.ZS,"Over-age students, secondary (% of enrollment)",SE_SEC_OENR,Percentage of students over the official secondary school age,90
+112,117,SE.SEC.OENR.FE.ZS,"Over-age students, secondary, female (% of female enrollment)",SE_SEC_OENR,Percentage of female students over the official secondary school age,90
+113,118,SE.SEC.OENR.MA.ZS,"Over-age students, secondary, male (% of male enrollment)",SE_SEC_OENR,Percentage of male students over the official secondary school age,90
+114,119,SE.SEC.TENR,"Secondary school enrollment, total (gross %)",SE_SEC_TENR,"Gross enrolment ratio, secondary education",90
+115,120,SE.SEC.TENR.FE,"Secondary school enrollment, female (gross %)",SE_SEC_TENR,"Gross enrolment ratio, secondary education, female",90
+116,121,SE.SEC.TENR.MA,"Secondary school enrollment, male (gross %)",SE_SEC_TENR,"Gross enrolment ratio, secondary education, male",90
+117,122,SE.TER.ENRR,"Tertiary school enrollment, total (net %)",SE_TER_ENRR,"Adjusted net enrolment rate, tertiary education",90
+118,123,SE.TER.ENRR.FE,"Tertiary school enrollment, female (net %)",SE_TER_ENRR,"Adjusted net enrolment rate, tertiary education, female",90
+119,124,SE.TER.ENRR.MA,"Tertiary school enrollment, male (net %)",SE_TER_ENRR,"Adjusted net enrolment rate, tertiary education, male",90
+120,125,SE.TER.TENR,"Tertiary school enrollment, total (gross %)",SE_TER_TENR,"Gross enrolment ratio, tertiary education",90
+121,126,SE.TER.TENR.FE,"Tertiary school enrollment, female (gross %)",SE_TER_TENR,"Gross enrolment ratio, tertiary education, female",90
+122,127,SE.TER.TENR.MA,"Tertiary school enrollment, male (gross %)",SE_TER_TENR,"Gross enrolment ratio, tertiary education, male",90
+123,128,SH.ACS.UNPT.ZS,Births attended by skilled health staff (% of total),SH_ACS_UNPT,Proportion of births attended by skilled health personnel,90
+124,129,SH.ANM.CHLD.ZS,Prevalence of anemia among children (% of children under 5),SH_ANM_CHLD,Prevalence of anaemia among children aged 6-59 months,90
+125,130,SH.ANM.NPRG.ZS,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH_ANM_NPRG,Prevalence of anaemia among women aged 15-49 years,90
+126,131,SH.DTH.COMM.ZS,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH_DTH_COMM,Mortality rate attributed to household and ambient air pollution,90
+127,132,SH.DTH.COMM.FE.ZS,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH_DTH_COMM,"Mortality rate attributed to household and ambient air pollution, female",90
+128,133,SH.DTH.COMM.MA.ZS,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH_DTH_COMM,"Mortality rate attributed to household and ambient air pollution, male",90
+129,134,SH.DTH.NCOM.ZS,"Mortality rate attributed to unintentional poisoning, age-standardized, total (per 100,000 population)",SH_DTH_NCOM,Mortality rate attributed to unintentional poisoning,90
+130,135,SH.DTH.NCOM.FE.ZS,"Mortality rate attributed to unintentional poisoning, age-standardized, female (per 100,000 female population)",SH_DTH_NCOM,"Mortality rate attributed to unintentional poisoning, female",90
+131,136,SH.DTH.NCOM.MA.ZS,"Mortality rate attributed to unintentional poisoning, age-standardized, male (per 100,000 male population)",SH_DTH_NCOM,"Mortality rate attributed to unintentional poisoning, male",90
+132,137,SH.DTH.POIS.ZS,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH_DTH_POIS,Mortality rate attributed to unintentional poisoning,90
+133,138,SH.DTH.POIS.FE.ZS,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH_DTH_POIS,"Mortality rate attributed to unintentional poisoning, female",90
+134,139,SH.DTH.POIS.MA.ZS,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH_DTH_POIS,"Mortality rate attributed to unintentional poisoning, male",90
+135,140,SH.DTH.REPN.ZS,"Mortality rate attributed to unintentional poisoning, age-standardized, total (per 100,000 population)",SH_DTH_REPN,Mortality rate attributed to unintentional poisoning,90
+136,141,SH.DTH.REPN.FE.ZS,"Mortality rate attributed to unintentional poisoning, age-standardized, female (per 100,000 female population)",SH_DTH_REPN,"Mortality rate attributed to unintentional poisoning, female",90
+137,142,SH.DTH.REPN.MA.ZS,"Mortality rate attributed to unintentional poisoning, age-standardized, male (per 100,000 male population)",SH_DTH_REPN,"Mortality rate attributed to unintentional poisoning, male",90
+138,143,SH.FPL.SATM.ZS,Demand for family planning satisfied by modern methods (% of married women ages 15-49),SH_FPL_SATM,Proportion of women aged 15-49 years who have their need for family planning satisfied with modern methods,90
+139,144,SH.FPL.SATI.ZS,Demand for family planning satisfied by modern methods (% of women ages 15-49),SH_FPL_SATI,Proportion of women aged 15-49 years who have their need for family planning satisfied with modern methods,90
+140,145,SH.FPL.SATI.ZS.UN,"Demand for family planning satisfied by modern methods (% of married or in-union women of reproductive age, 15-49)",SH_FPL_SATI,Proportion of women aged 15-49 years who have their need for family planning satisfied with modern methods,90
+141,146,SH.Hlth.PMORT,"Mortality rate attributed to household and ambient air pollution, age-standardized, total (per 100,000 population)",SH_Hlth_PMORT,Mortality rate attributed to household and ambient air pollution,90
+142,147,SH.Hlth.PMORT.FE,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH_Hlth_PMORT,"Mortality rate attributed to household and ambient air pollution, female",90
+143,148,SH.Hlth.PMORT.MA,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH_Hlth_PMORT,"Mortality rate attributed to household and ambient air pollution, male",90
+144,149,SH.Hlth.SCIN.ZS,"Incidence of tuberculosis (per 100,000 people)",SH_Hlth_SCIN,"Incidence of tuberculosis (per 100,000 population)",90
+145,150,SH.HIV.AIDS.PC.ZS,"Prevalence of HIV, total (% of population ages 15-49)",SH_HIV_AIDS,Proportion of population aged 15-24 years with comprehensive correct knowledge about HIV/AIDS and sexual health,
+146,151,SH.IMM.IBCG,"Immunization, BCG (% of children ages 12-23 months)",SH_IMM_IBCG,Proportion of children aged 12-23 months who received at least one dose of bacille Calmette-Guérin (BCG) vaccine,90
+147,152,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",SH_IMM_IDPT,Proportion of children aged 12-23 months who received three doses of diphteria-tetanus-pertussis (DTP3) vaccine,90
+148,153,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",SH_IMM_MEAS,Proportion of children aged 12-23 months who received at least one dose of measles-containing vaccine,90
+149,154,SH.MLR.IPTP.ZS,Children under 5 with fever treated with antimalarial drugs (% of children under 5 with fever),SH_MLR_IPTP,Proportion of children under 5 years of age with fever treated with antimalarial drugs,90
+150,155,SH.MLR.NETS.ZS,Use of insecticide-treated bed nets (% of households with at least one net),SH_MLR_NETS,Proportion of population in malaria-endemic areas covered by effective malaria control interventions,
+151,156,SH.MLR.SMYR.ZS,Malaria prevalence (% of population at risk),SH_MLR_SMYR,"Incidence of malaria per 1,000 population at risk",
+152,157,SH.MLR.SMYR.P5,"Incidence of malaria (per 1,000 population at risk)",SH_MLR_SMYR,"Incidence of malaria per 1,000 population at risk",90
+153,158,SH.MMR.RISK,Lifetime risk of maternal death (1 in ...),SH_MMR_RISK,Lifetime risk of maternal death,90
+154,159,SH.MMR.RISK.ZS,Lifetime risk of maternal death (%),SH_MMR_RISK,Lifetime risk of maternal death,90
+155,160,SH.PRV.SMOK,Prevalence of current tobacco use (% of adults),SH_PRV_SMOK,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,90
+156,161,SH.PRV.SMOK.FE,"Prevalence of current tobacco use, female (% of female adults)",SH_PRV_SMOK,Age-standardized prevalence of current tobacco use among females aged 15 years and older,90
+157,162,SH.PRV.SMOK.MA,"Prevalence of current tobacco use, male (% of male adults)",SH_PRV_SMOK,Age-standardized prevalence of current tobacco use among males aged 15 years and older,90
+158,163,SH.STA.AIRP.P5,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",SH_STA_AIRP,Mortality rate attributed to household and ambient air pollution,90
+159,164,SH.STA.AIRP.FE.P5,"Mortality rate attributed to household and ambient air pollution, female (per 100,000 female population)",SH_STA_AIRP,"Mortality rate attributed to household and ambient air pollution, female",90
+160,165,SH.STA.AIRP.MA.P5,"Mortality rate attributed to household and ambient air pollution, male (per 100,000 male population)",SH_STA_AIRP,"Mortality rate attributed to household and ambient air pollution, male",90
+161,166,SH.STA.ANVC.ZS,Women receiving prenatal care (% of pregnant women),SH_STA_ANVC,Proportion of women aged 15-49 years receiving at least four antenatal care visits,
+162,167,SH.STA.BASS.ZS,People using safely managed sanitation services (% of population),SH_STA_BASS,Proportion of population using safely managed sanitation services,90
+163,168,SH.STA.BASS.RU.ZS,"People using safely managed sanitation services, rural (% of rural population)",SH_STA_BASS,Proportion of rural population using safely managed sanitation services,90
+164,169,SH.STA.BASS.UR.ZS,"People using safely managed sanitation services, urban (% of urban population)",SH_STA_BASS,Proportion of urban population using safely managed sanitation services,90
+165,170,SH.STA.BHUT.ZS,People practicing open defecation (% of population),SH_STA_BHUT,Proportion of population practising open defecation,90
+166,171,SH.STA.BHUT.RU.ZS,"People practicing open defecation, rural (% of rural population)",SH_STA_BHUT,Proportion of rural population practising open defecation,90
+167,172,SH.STA.BHUT.UR.ZS,"People practicing open defecation, urban (% of urban population)",SH_STA_BHUT,Proportion of urban population practising open defecation,90
+168,173,SH.STA.BPFL.ZS,People using basic handwashing facilities (% of population),SH_STA_BPFL,Proportion of population with basic handwashing facilities with soap and water available on premises,90
+169,174,SH.STA.BPFL.RU.ZS,"People using basic handwashing facilities, rural (% of rural population)",SH_STA_BPFL,Proportion of rural population with basic handwashing facilities with soap and water available on premises,90
+170,175,SH.STA.BPFL.UR.ZS,"People using basic handwashing facilities, urban (% of urban population)",SH_STA_BPFL,Proportion of urban population with basic handwashing facilities with soap and water available on premises,90
+171,176,SH.STA.BASS.ZS,People using basic sanitation services (% of population),SH_STA_BASS,Proportion of population using safely managed sanitation services,
+172,177,SH.STA.BASS.RU.ZS,"People using basic sanitation services, rural (% of rural population)",SH_STA_BASS,Proportion of rural population using safely managed sanitation services,
+173,178,SH.STA.BASS.UR.ZS,"People using basic sanitation services, urban (% of urban population)",SH_STA_BASS,Proportion of urban population using safely managed sanitation services,
+174,179,SH.STA.EMRG.ZS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SH_STA_EMRG,"Adolescent birth rate (per 1,000 women aged 15-19 years)",90
+175,180,SH.STA.HYGN.ZS,People using basic handwashing facilities (% of population),SH_STA_HYGN,Proportion of population with basic handwashing facilities with soap and water available on premises,90
+176,181,SH.STA.HYGN.RU.ZS,"People using basic handwashing facilities, rural (% of rural population)",SH_STA_HYGN,Proportion of rural population with basic handwashing facilities with soap and water available on premises,90
+177,182,SH.STA.HYGN.UR.ZS,"People using basic handwashing facilities, urban (% of urban population)",SH_STA_HYGN,Proportion of urban population with basic handwashing facilities with soap and water available on premises,90
+178,183,SH.STA.MALN.ZS,"Prevalence of underweight, weight for age (% of children under 5)",SH_STA_MALN,Prevalence of underweight among children under 5 years of age,90
+179,184,SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH_STA_MMRT,"Maternal mortality ratio (modelled estimate, per 100,000 live births)",90
+180,185,SH.STA.ODFC.ZS,People practicing open defecation (% of population),SH_STA_ODFC,Proportion of population practising open defecation,90
+181,186,SH.STA.ODFC.RU.ZS,"People practicing open defecation, rural (% of rural population)",SH_STA_ODFC,Proportion of rural population practising open defecation,90
+182,187,SH.STA.ODFC.UR.ZS,"People practicing open defecation, urban (% of urban population)",SH_STA_ODFC,Proportion of urban population practising open defecation,90
+183,188,SH.STA.POIS.P5,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH_STA_POIS,Mortality rate attributed to unintentional poisoning,90
+184,189,SH.STA.POIS.FE.P5,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH_STA_POIS,"Mortality rate attributed to unintentional poisoning, female",90
+185,190,SH.STA.POIS.MA.P5,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH_STA_POIS,"Mortality rate attributed to unintentional poisoning, male",90
+186,191,SH.STA.SUIC.P5,"Suicide mortality rate (per 100,000 population)",SH_STA_SUIC,Suicide mortality rate,90
+187,192,SH.STA.SUIC.FE.P5,"Suicide mortality rate, female (per 100,000 female population)",SH_STA_SUIC,"Suicide mortality rate, female",90
+188,193,SH.STA.SUIC.MA.P5,"Suicide mortality rate, male (per 100,000 male population)",SH_STA_SUIC,"Suicide mortality rate, male",90
+189,194,SH.STA.TRAF.P5,"Mortality rate attributed to unintentional poisoning, age-standardized, total (per 100,000 population)",SH_STA_TRAF,Mortality rate attributed to unintentional poisoning,
+190,195,SH.STA.TRAF.FE.P5,"Mortality rate attributed to unintentional poisoning, age-standardized, female (per 100,000 female population)",SH_STA_TRAF,"Mortality rate attributed to unintentional poisoning, female",
+191,196,SH.STA.TRAF.MA.P5,"Mortality rate attributed to unintentional poisoning, age-standardized, male (per 100,000 male population)",SH_STA_TRAF,"Mortality rate attributed to unintentional poisoning, male",
+192,197,SH.STA.WASH.ZS,People using safely managed drinking water services (% of population),SH_STA_WASH,Proportion of population using safely managed drinking water services,90
+193,198,SH.STA.WASH.RU.ZS,"People using safely managed drinking water services, rural (% of rural population)",SH_STA_WASH,Proportion of rural population using safely managed drinking water services,90
+194,199,SH.STA.WASH.UR.ZS,"People using safely managed drinking water services, urban (% of urban population)",SH_STA_WASH,Proportion of urban population using safely managed drinking water services,90
+195,200,SH.SVR.WAST.ZS,"Prevalence of severe wasting, weight for height (% of children under 5)",SH_SVR_WAST,Prevalence of severe wasting among children under 5 years of age,90
+196,201,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",SH_TBS_INCD,"Incidence of tuberculosis (per 100,000 population)",90
+197,202,SH.VAC.TTNS.ZS,"Immunization, Tetanus Toxoid (TT2 plus) (% of women ages 15-49)",SH_VAC_TTNS,Proportion of women aged 15-49 years who received at least two doses of tetanus toxoid vaccine,90
+198,203,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),SH_XPD_CHEX,Current health expenditure as a proportion of GDP,90
+199,204,SH.XPD.CHEX.PP.CD,Current health expenditure per capita (current US$),SH_XPD_CHEX,Current health expenditure,
+200,205,SH.XPD.CHEX.PP.KD,"Current health expenditure per capita, PPP (current international $)",SH_XPD_CHEX,Current health expenditure,
+201,206,SH.XPD.CHEX.ZS,Current health expenditure (% of total health expenditure),SH_XPD_CHEX,Current health expenditure,
+202,207,SI.DST.05TH.20,Income share held by lowest 20%,SI_DST_05TH,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (rural/urban)",
+203,208,SI.DST.10TH.10,Income share held by highest 10%,SI_DST_10TH,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (rural/urban)",
+204,209,SI.DST.50MD,Gini index (World Bank estimate),SI_DST_50MD,Gini index,90
+205,210,SI.POV.DDAY,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI_POV_DDAY,Proportion of population below the international poverty line,90
+206,211,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),SI_POV_GAPS,Poverty gap at national poverty lines,
+207,212,SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),SI_POV_NAHC,Proportion of population living below the national poverty line,90
+208,213,SI.POV.RUHC,Poverty headcount ratio at rural poverty lines (% of rural population),SI_POV_RUHC,"Proportion of population living below the national poverty line, rural",90
+209,214,SI.POV.URHC,Poverty headcount ratio at urban poverty lines (% of urban population),SI_POV_URHC,"Proportion of population living below the national poverty line, urban",90
+210,215,SI.SPR.PCAP,Real household consumption expenditure per capita (constant 2017 PPP$),SI_SPR_PCAP,Annual growth rate of real household consumption expenditure per capita,90
+211,216,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),SL_AGR_EMPL,Proportion of people working in agriculture,90
+212,217,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL_AGR_EMPL,Proportion of females working in agriculture,90
+213,218,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL_AGR_EMPL,Proportion of males working in agriculture,90
+214,219,SL.EMP.WORK.SP.ZS,"Employment-to-population ratio, 15+, total (%) (modeled ILO estimate)",SL_EMP_WORK,Employment to population ratio,90
+215,220,SL.EMP.WORK.SP.FE.ZS,"Employment-to-population ratio, 15+, female (%) (modeled ILO estimate)",SL_EMP_WORK,"Employment to population ratio, female",90
+216,221,SL.EMP.WORK.SP.MA.ZS,"Employment-to-population ratio, 15+, male (%) (modeled ILO estimate)",SL_EMP_WORK,"Employment to population ratio, male",90
+217,222,SL.IND.EMPL.ZS,Employment in industry (% of total employment) (modeled ILO estimate),SL_IND_EMPL,Proportion of people working in industry,90
+218,223,SL.IND.EMPL.FE.ZS,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL_IND_EMPL,Proportion of females working in industry,90
+219,224,SL.IND.EMPL.MA.ZS,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL_IND_EMPL,Proportion of males working in industry,90
+220,225,SL.SRV.EMPL.ZS,Employment in services (% of total employment) (modeled ILO estimate),SL_SRV_EMPL,Proportion of people working in services,90
+221,226,SL.SRV.EMPL.FE.ZS,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL_SRV_EMPL,Proportion of females working in services,90
+222,227,SL.SRV.EMPL.MA.ZS,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL_SRV_EMPL,Proportion of males working in services,90
+223,228,SL.TLF.ACTI.ZS,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL_TLF_ACTI,Labour force participation rate,90
+224,229,SL.TLF.ACTI.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL_TLF_ACTI,"Labour force participation rate, female",90
+225,230,SL.TLF.ACTI.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL_TLF_ACTI,"Labour force participation rate, male",90
+226,231,SL.TLF.BRLF.ZS,"Labor force participation rate, total (% of total population ages 15-24) (modeled ILO estimate)",SL_TLF_BRLF,"Proportion of youth (15-24 years) not in education, employment or training",
+227,232,SL.TLF.BRLF.FE.ZS,"Labor force participation rate, female (% of female population ages 15-24) (modeled ILO estimate)",SL_TLF_BRLF,"Proportion of young females (15-24 years) not in education, employment or training",
+228,233,SL.TLF.BRLF.MA.ZS,"Labor force participation rate, male (% of male population ages 15-24) (modeled ILO estimate)",SL_TLF_BRLF,"Proportion of young males (15-24 years) not in education, employment or training",
+229,234,SL.TLF.CACT.FE.ZS,Female headed households (% of households with children),SL_TLF_CACT,Proportion of households with female heads,
+230,235,SL.TLF.CELS.ZS,"Youth not in education, employment or training (total % of youth population)",SL_TLF_CELS,"Proportion of youth (15-24 years) not in education, employment or training",90
+231,236,SL.TLF.CELS.FE.ZS,"Youth not in education, employment or training (female % of female youth population)",SL_TLF_CELS,"Proportion of young females (15-24 years) not in education, employment or training",90
+232,237,SL.TLF.CELS.MA.ZS,"Youth not in education, employment or training (male % of male youth population)",SL_TLF_CELS,"Proportion of young males (15-24 years) not in education, employment or training",90
+233,238,SL.UEM.NEET.ZS,"Youth not in education, employment or training (total % of youth population ages 15-24)",SL_UEM_NEET,"Proportion of youth (15-24 years) not in education, employment or training",90
+234,239,SL.UEM.NEET.FE.ZS,"Youth not in education, employment or training (female % of female youth population ages 15-24)",SL_UEM_NEET,"Proportion of young females (15-24 years) not in education, employment or training",90
+235,240,SL.UEM.NEET.MA.ZS,"Youth not in education, employment or training (male % of male youth population ages 15-24)",SL_UEM_NEET,"Proportion of young males (15-24 years) not in education, employment or training",90
+236,241,SM.POP.NETM,Net migration,SM_POP_NETM,Net migration rate,
+237,242,SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",SP_DYN_IMRT,"Infant mortality rate (per 1,000 live births)",90
+238,243,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",SP_DYN_LE00,Life expectancy at birth,90
+239,244,SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)",SP_DYN_LE00,"Life expectancy at birth, female",90
+240,245,SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)",SP_DYN_LE00,"Life expectancy at birth, male",90
+241,246,SP.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",SP_DYN_MORT,"Under-5 mortality rate (per 1,000 live births)",90
+242,247,SP.DYN.NMRT,"Mortality rate, neonatal (per 1,000 live births)",SP_DYN_NMRT,"Neonatal mortality rate (per 1,000 live births)",90
+243,248,SP.DYN.TO65.ZS,"Probability of dying between birth and age 5 (per 1,000 live births)",SP_DYN_TO65,Probability of dying between birth and age 5,90
+244,249,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",SP_DYN_TFRT,Total fertility rate (births per woman),90
+245,250,SP.POP.0014.TO,"Population ages 0-14, total",SP_POP_0014,Proportion of population aged 0-14 years,
+246,251,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),SP_POP_0014,Proportion of population aged 0-14 years,90
+247,252,SP.POP.1564.TO,"Population ages 15-64, total",SP_POP_1564,Proportion of population aged 15-64 years,
+248,253,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),SP_POP_1564,Proportion of population aged 15-64 years,90
+249,254,SP.POP.65UP.TO,"Population ages 65 and above, total",SP_POP_65UP,Proportion of population aged 65 years and older,
+250,255,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),SP_POP_65UP,Proportion of population aged 65 years and older,90
+251,256,SP.POP.DPND,"Dependent population, total",SP_POP_DPND,Dependency ratio,
+252,257,SP.POP.DPND.ZS,"Dependency ratio, total (% of working-age population)",SP_POP_DPND,Dependency ratio,90
+253,258,SP.POP.GROW,Population growth (annual %),SP_POP_GROW,Average annual population growth rate,90
+254,259,SP.POP.TOTL,"Population, total",SP_POP_TOTL,Total population,90
+255,260,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",SP_POP_TOTL,"Total population, female",
+256,261,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",SP_POP_TOTL,"Total population, male",
+257,262,SP.REG.BRTH.ZS,Completeness of birth registration (%),SP_REG_BRTH,Proportion of children under 5 years of age whose births have been registered with a civil authority,
+258,263,SP.RUR.TOTL,Rural population,SP_RUR_TOTL,Rural population,90
+259,264,SP.RUR.TOTL.ZG,Rural population growth (annual %),SP_RUR_TOTL,Rural population,
+260,265,SP.RUR.TOTL.ZS,Rural population (% of total population),SP_RUR_TOTL,Rural population,
+261,266,SP.URB.GROW,Urban population growth (annual %),SP_URB_GROW,Annual growth rate of urban population,90
+262,267,SP.URB.TOTL,Urban population,SP_URB_TOTL,Urban population,90
+263,268,SP.URB.TOTL.ZS,Urban population (% of total population),SP_URB_TOTL,Urban population,
+264,269,ST.INT.ARVL,"International tourism, arrivals",ST_INT_ARVL,Annual number of international tourist arrivals,90
+265,270,ST.INT.DPRT,"International tourism, departures",ST_INT_DPRT,Annual number of international tourist departures,90
+266,271,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",ST_INT_RCPT,Annual number of international tourist arrivals,
+267,272,ST.INT.TVLR.CD,"International tourism, expenditures (current US$)",ST_INT_TVLR,Annual number of international tourist departures,
+268,273,ST.QP.PMPV,Prevalence of moderate or severe food insecurity in the population (%),ST_QP_PMPV,Prevalence of moderate or severe food insecurity in the population,90
+269,274,ST.UHC.NDEN.ZS,UHC service coverage index,ST_UHC_NDEN,Coverage of essential health services (UHC index),90
+270,275,ST.UHC.OOPC.ZS,Proportion of population with large household expenditures on health as a share of total household expenditure or income (%),ST_UHC_OOPC,Proportion of population with large household expenditures on health as a share of total household expenditure or income,90
+271,276,ST.UHC.SFSL.CC,"Proportion of population protected by social safety nets, total (% of population)",ST_UHC_SFSL,Proportion of population covered by social protection floors/systems,90
+272,277,ST.UHC.SFSL.CR,"Proportion of population protected by social safety nets, children (% of children)",ST_UHC_SFSL,Proportion of population covered by social protection floors/systems,
+273,278,ST.UHC.SFSL.SG,"Proportion of population protected by social safety nets, adults (% of adults)",ST_UHC_SFSL,Proportion of population covered by social protection floors/systems,
+274,279,ST.UHC.SFSL.SP.ZS,"Proportion of population protected by social protection floors/systems, total (%)",ST_UHC_SFSL,Proportion of population covered by social protection floors/systems,90
+275,280,ST.UHC.SFSL.CR.ZS,"Proportion of population protected by social protection floors/systems, children (% of children)",ST_UHC_SFSL,"Proportion of population covered by social protection floors/systems, children",90
+276,281,ST.UHC.SFSL.SG.ZS,"Proportion of population protected by social protection floors/systems, older persons (% of older persons)",ST_UHC_SFSL,"Proportion of population covered by social protection floors/systems, older persons",90
+277,282,ST.UHC.SFSL.WO.ZS,"Proportion of population protected by social protection floors/systems, women with newborns (% of women with newborns)",ST_UHC_SFSL,"Proportion of population covered by social protection floors/systems, women with newborns",90
+278,283,ST.UHC.WHO_OSUHC,Proportion of population with large household expenditures on health as a share of total household expenditure or income (%),ST_UHC_WHO,Proportion of population with large household expenditures on health as a share of total household expenditure or income,90
+279,284,ST.WAFL.SAFE.ZS,People using safely managed drinking water services (% of population),ST_WAFL_SAFE,Proportion of population using safely managed drinking water services,90
+280,285,ST.WAFL.SAFE.RU.ZS,"People using safely managed drinking water services, rural (% of rural population)",ST_WAFL_SAFE,Proportion of rural population using safely managed drinking water services,90
+281,286,ST.WAFL.SAFE.UR.ZS,"People using safely managed drinking water services, urban (% of urban population)",ST_WAFL_SAFE,Proportion of urban population using safely managed drinking water services,90
+282,287,ST.WIN.SAFE.ZS,People using safely managed sanitation services (% of population),ST_WIN_SAFE,Proportion of population using safely managed sanitation services,90
+283,288,ST.WIN.SAFE.RU.ZS,"People using safely managed sanitation services, rural (% of rural population)",ST_WIN_SAFE,Proportion of rural population using safely managed sanitation services,90
+284,289,ST.WIN.SAFE.UR.ZS,"People using safely managed sanitation services, urban (% of urban population)",ST_WIN_SAFE,Proportion of urban population using safely managed sanitation services,90
+285,290,TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP),TG_VAL_TOTL,Merchandise trade as a proportion of total trade,
+286,291,TG.VAL.TOTL.ZS.UN,Merchandise trade (% of GDP),TG_VAL_TOTL,Merchandise trade as a proportion of total trade,
+287,292,TM.TAX.TCOM.CD.ZS,"Tariff rate, applied, weighted mean, all products (%)",TM_TAX_TCOM,"Tariff rate, applied, weighted mean, all products",90
+288,293,TM.TAX.TCOM.PR.ZS,"Tariff rate, applied, weighted mean, primary products (%)",TM_TAX_TCOM,"Tariff rate, applied, weighted mean, primary products",90
+289,294,TM.TAX.TCOM.TR.ZS,"Tariff rate, applied, weighted mean, manufactured products (%)",TM_TAX_TCOM,"Tariff rate, applied, weighted mean, manufactured products",90
+290,295,TM.TAX.MANF.ZS,"Tariff rate, applied, weighted mean, manufactured products (%)",TM_TAX_MANF,"Tariff rate, applied, weighted mean, manufactured products",90
+291,296,TM.TAX.PRMY.ZS,"Tariff rate, applied, weighted mean, primary products (%)",TM_TAX_PRMY,"Tariff rate, applied, weighted mean, primary products",90
